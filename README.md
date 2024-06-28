@@ -1,3 +1,6 @@
 # React + Vite
 
-![obys](https://github.com/poojahooda22/obys-clone/assets/91055527/45f07d87-54a5-48ea-abdb-4d6378fead0a)
+live link - https://rebuilt-obys-landing-page.netlify.app
+
+Built the landing page of Awwwards website (Obys) with React for the purpose of learning.
+
